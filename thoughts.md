@@ -8,5 +8,5 @@ Write it down below and give your brain some additional space
 Big List
 
 - [x] Create first list for forgetit
-- [ ] Test out how mark down looks on github
+- [x] Test out how mark down looks on github
 - [ ] Link readme to thoughts.md (on github)
